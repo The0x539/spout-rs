@@ -1,0 +1,8 @@
+[package]
+name = "spout"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+gl = "0.14.0"
+libloading = "0.8.1"
